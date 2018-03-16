@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ticket</string>
+    <string name="edit_note">Edit note</string>
+    <string name="note_title">ticket number</string>
+    <string name="search_hint">ticket number</string>
+    <string name="note_content">Note content</string>
+    <string name="ticket_set">Ticket Set</string>
+    <string name="save_note">Save Note</string>
+    <string name="new_category_name">New category name</string>
+    <string name="create_new_category">Create new category</string>
+    <string name="action_search">Search</string>
+</resources>
